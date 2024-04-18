@@ -1,6 +1,7 @@
 // pages/index.tsx
 
 import Container from '../components/Container/';
+import './';
 
 const HomePage: React.FC = () => {
   return (

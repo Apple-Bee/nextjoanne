@@ -1,6 +1,5 @@
 import React from 'react';
 import Head from 'next/head';
-import '../style/globals.css';
 import Container from "../components/Container/index";
 import  Header  from '../components/Header/index';
 import  Footer  from '../components/Footer/index';
